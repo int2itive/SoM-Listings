@@ -196,7 +196,7 @@ background-clip: text;
   transform: translate(0, -40px);
 /*   color: firebrick; */
 }
-.site--hero:nth-of-type(6) .container img {
+.site--hero:nth-of-type(5) .container img {
 /*   display: none; */
   transform: translate(0, -45px);
 /*   color: firebrick; */
