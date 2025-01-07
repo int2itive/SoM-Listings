@@ -198,12 +198,17 @@ background-clip: text;
 }
 .site--hero:nth-of-type(5) .container img {
 /*   display: none; */
+  transform: translate(0, -5px);
+/*   color: firebrick; */
+}
+.site--hero:nth-of-type(6) .container img {
+/*   display: none; */
   transform: translate(0, -45px);
 /*   color: firebrick; */
 }
 .site--hero:nth-of-type(10) .container img {
 /*   display: none; */
-  transform: translate(0, -55px);
+  transform: translate(0, -5px);
 /*   color: firebrick; */
 }
 
