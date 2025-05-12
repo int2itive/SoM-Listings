@@ -335,11 +335,15 @@ site--hero:nth-of-type(3) .container img {
     font-weight: 700;
     color: hsl(42, 62.5%, 55.9%); /* 43.8, 0%, 26.1% */
     color: hsl(43.8, 0%, 17.9%);
-    color: hsl(43.8, 0%, 22%);
+    color: hsl(43.8, 0%, 35%);
     top: 155%;
-    left: 50%;
+    left: 0;
     width: 80%;
-    transform: translateX(-45%);
+    width: 100%;
+    display: grid;
+    place-content: center;
+    place-items: center;
+/*    transform: translateX(-45%);*/
     letter-spacing: 0.110rem;
   }
   .artist_display__meta {
