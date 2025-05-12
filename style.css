@@ -718,9 +718,9 @@ radial-gradient(at 71% 58%, hsla(41,62%,55%,1) 0px, transparent 50%);
 @media (max-width: 450px) {
   .container img {
 /*     width: 100%; */
+    max-width: 100%;
     object-fit: cover;
     object-position: center center;
-    transform: translateX(-75px);
 /*     transform: translateX(-20%); */
   }
 
