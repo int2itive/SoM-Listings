@@ -193,7 +193,7 @@ background-clip: text;
 
 .site--hero:nth-of-type(2) .container img {
 /*   display: none; */
-  transform: translate(0, -4px);
+  transform: translate(0, 0);
 /*   color: firebrick; */
 }
 
