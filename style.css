@@ -191,22 +191,22 @@ background-clip: text;
   }
 }
 
-.site--hero:nth-of-type(3) .container img {
+.site--hero:nth-of-type(2) .container img {
 /*   display: none; */
   transform: translate(0, -40px);
 /*   color: firebrick; */
 }
-.site--hero:nth-of-type(6) .container img {
+.site--hero:nth-of-type(5) .container img {
   transform: translate(0, 15px);
 }
 
-.site--hero:nth-of-type(7) .container img {
+.site--hero:nth-of-type(6) .container img {
 /*   display: none; */
   transform: translate(-40px, -45px);
 /*   color: firebrick; */
 }
 
-.site--hero:nth-of-type(11) .container img {
+.site--hero:nth-of-type(10) .container img {
   transform: translate(0, 15px);
 }
 
