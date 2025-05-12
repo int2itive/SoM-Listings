@@ -219,7 +219,7 @@ site--hero:nth-of-type(3) .container img {
 }
 
 .site--hero:nth-of-type(11) .container img {
-  transform: translate(0, -25px);
+  transform: translate(0, -50px);
 }
 
 .container img {
@@ -263,7 +263,7 @@ site--hero:nth-of-type(3) .container img {
   margin: 0 auto;
   display: flex;
   flex-direction: column;
-  gap: .25rem;
+  gap: 1.25rem;
 }
 
 .container .content h1 {
