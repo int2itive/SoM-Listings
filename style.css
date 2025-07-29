@@ -210,6 +210,7 @@ background-clip: text;
 .site--hero:nth-of-type(2) .container img {
 /*   display: none; */
   transform: translate(0, 0);
+  grayscale(0.45) contrast(1.2)
 /*   color: firebrick; */
 }
 
