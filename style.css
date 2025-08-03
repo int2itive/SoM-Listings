@@ -301,7 +301,7 @@ site--hero:nth-of-type(3) .container img {
  */
 .container .content p {
   position: relative;
-  font-family: 'DM Sans', sans-serif;
+  /* font-family: 'DM Sans', sans-serif; */
   width: 55ch;
   color: hsl(43.8, 0%, 85.4%);
 /*   order: 1; */
