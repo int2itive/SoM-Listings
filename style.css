@@ -354,7 +354,8 @@ site--hero:nth-of-type(12) .container img {
     color: hsl(42, 62.5%, 55.9%); /* 43.8, 0%, 26.1% */
     color: hsl(43.8, 0%, 17.9%);
     color: hsl(43.8, 0%, 35%);
-    top: 155%;
+/*     top: 155%; */
+    bottom: -95px;
     left: 0;
     width: 80%;
     width: 100%;
