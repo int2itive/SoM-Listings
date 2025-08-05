@@ -156,6 +156,7 @@ background-clip: text;
   align-items: center; */
   width: 100%;
   overflow: hidden;
+  min-height: 660px;
 /*   border: 1px solid #c0c0c0; */
 }
 
