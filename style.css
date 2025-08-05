@@ -212,7 +212,8 @@ background-clip: text;
 .site--hero:nth-of-type(2) .container img {
 /*   display: none; */
   transform: translate(0, 0);
-  grayscale(0.45) contrast(1.2)
+/*   grayscale(0.45) contrast(1.2); */
+  filter: grayscale(0.75) contrast(1.2);
 /*   color: firebrick; */
 }
 
@@ -579,6 +580,26 @@ background-clip: text;
   background-position: center;
   background-repeat: no-repeat;
 /*   opacity: .7; */
+}
+
+.list__title {
+  position: absolute;
+  top: 40%;
+  left: -28%;
+  left: -288px;
+  width: max-content;
+  height: auto;
+  transform:rotate(-90deg);  
+}
+
+.list__title h4 {
+  font-family:"trade-gothic-next";
+  font-size: 4rem;
+  font-weight: 800;
+  color: hsla(43.8, 0%, 2.3%, 0.4);
+/*  color: #c0c0c0; */
+/*  font-size: .75rem;*/
+/*  transform:rotate(-45deg);*/
 }
 
 .alt-hero::after {
