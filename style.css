@@ -339,6 +339,7 @@ site--hero:nth-of-type(12) .container img {
     font-size: .95rem;
     line-height: 1.2;
     margin-bottom: 6rem;
+    margin-bottom: .5rem;
     align-self: center;
 /*     order: 1; */
     padding: .5rem 1rem 0;
@@ -356,7 +357,7 @@ site--hero:nth-of-type(12) .container img {
     color: hsl(43.8, 0%, 17.9%);
     color: hsl(43.8, 0%, 35%);
     left: 0;
-    top: 100px
+    top: 100px;
     width: 80%;
     width: 100%;
     display: grid;
