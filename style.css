@@ -292,7 +292,7 @@ site--hero:nth-of-type(12) .container img {
   line-height: .85;
   line-height: 1.2;
   line-height: .9;
-/*   margin-bottom: .2rem; */
+  margin-bottom: 0;
 /*   text-align: center; */
   text-shadow: 0 1px 2px rgba(0, 0, 0, 0.3);
 }
@@ -331,6 +331,7 @@ site--hero:nth-of-type(12) .container img {
   .container .content h1 {
     text-align: center;
     line-height: 1.2;
+    margin-bottom: 4rem;
   }
   .container .content p {
     width: 41ch;
@@ -339,7 +340,7 @@ site--hero:nth-of-type(12) .container img {
     line-height: 1.2;
     margin-bottom: 6rem;
     align-self: center;
-    order: 1;
+/*     order: 1; */
     padding: .5rem 1rem 0;
   }
   .container .content .meta--social-icon {
@@ -354,9 +355,8 @@ site--hero:nth-of-type(12) .container img {
     color: hsl(42, 62.5%, 55.9%); /* 43.8, 0%, 26.1% */
     color: hsl(43.8, 0%, 17.9%);
     color: hsl(43.8, 0%, 35%);
-/*     top: 155%; */
-    bottom: -95px;
     left: 0;
+    top: 100px
     width: 80%;
     width: 100%;
     display: grid;
