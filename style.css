@@ -237,7 +237,7 @@ site--hero:nth-of-type(12) .container img {
 }
 
 .site--hero:nth-of-type(14) .container img {
-  transform: translate(0, -50px);
+  transform: translate(0, 0px);
 }
 
 .container img {
