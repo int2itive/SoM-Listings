@@ -215,6 +215,7 @@ background-clip: text;
   font-family: 'Bebas Neue';
   font-size: .825rem;
   color: #c0c0c0;
+  color: hsl(43.8 0% 75.3% / .3);
 } 
 
 . container .som--profile-header span {
